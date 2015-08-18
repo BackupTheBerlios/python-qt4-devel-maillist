@@ -1,0 +1,13 @@
+From ericjardim at gmail.com  Wed Sep 14 19:40:52 2005
+From: ericjardim at gmail.com (Eric Jardim)
+Date: Wed, 14 Sep 2005 14:40:52 -0300
+Subject: [python-qt4-devel] echo
+Message-ID: <432ec6c505091410404621acf9@mail.gmail.com>
+
+echo, echo, echo...
+
+[Eric Jardim]
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/python-qt4-devel/attachments/20050914/89c58295/attachment.html>
+
